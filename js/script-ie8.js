@@ -1,0 +1,1 @@
+var h1=document.getElementsByClassName("ie8");$(document).ready(function(){$("alert").on("click",function(){$("h1").toggle()})});
